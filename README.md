@@ -1,3 +1,4 @@
+## usersテーブル
 |Column         |Type     |Options                   |
 |---------------|---------|---------------           |
 |nickname       |string   |null: false, unique: true, index: true
