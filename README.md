@@ -30,6 +30,7 @@
 |region        |string   |null: false|
 |shipping_date |string   |null: false|
 |price         |integer  |null: false|
+|category      |string   |null: fslse|
 |saler_id      |reference|null: false, foreign_key: true|
 |buyer_id      |reference|null: false, foreign_key: true|
 ### Association  
